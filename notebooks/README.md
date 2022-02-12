@@ -6,9 +6,16 @@
 1. 1 LSTM & 1 Dense Layer
 2. 2 LSTM & 1 Dense Layer
 3. 1 LSTM & 2 Dense Layer
+4. 1 Bidirectional LSTM & 1 Dense Layer
+5. 1 Bidirectional LSTM & 2 Dense Layer
 
 Epochs Trained on : 50
 Dataset used to train the model : [Shakespeare's Play](https://www.kaggle.com/kingburrito666/shakespeare-plays)
+Best LSTM Model :
+```
+  1 Bidirectional LSTM & 1 Dense Layer
+```
+
 Best Results from the above LSTM Models :
 ```
 1.  Julius Inclination And The Start Of Spleen And Dials The Earl Of Westmoreland Alencon The La Pucelle Charles And Prisoners To
