@@ -20,6 +20,8 @@ Light Novel Generation using LSTM & GPT-2. This Project was made for *KJSIEIT Co
     * Level 999 Villager
     * The Dungeon Seeker
     * The Skeleton Knight
+  * JK Rowling's Book :
+    * Harry Potter 
 
 
 ### Notebooks
