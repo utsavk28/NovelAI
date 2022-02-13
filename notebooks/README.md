@@ -36,8 +36,8 @@ Dataset used to train the model :
 Results from the above GPT2 Models :
   1. Fine Tuned on Japanese Light Novel 
     <p>
-    Story Beginning Words : Zombie Apocalypse
-    Length : 300
+    Story Beginning Words : Zombie Apocalypse<br/>
+    Length : 300<br/>
     Zombie Apocalypse’s rank and level.“i’ll clean up the corpses, then! hurry up and come back tomorrow morning!”lan xueruo smiled as she said that. she instructed the disciples of the seven deadly sword pavilion to hurry up and come back tomorrow morning in the event of an emergency. “i also want to hurry up and come back tomorrow morning!” yun che immediately turned his back around and faced lan xueruo. lan xueruo had already placed all her profound strength into her right now, and her posture was completely silent; the only sound that could be heard from outside was the muffled sound of her footsteps. at the same time, the corners of yun che’s mouth curled up like a crescent. the expression in her eyes was extremely hazy; it was as if she had just wanted to say something, but couldn’t come up with it.“i’m afraid not, because this yun che is not like this after all.” lan xueruo shook her head. she knew that the first time he had confronted xiao luocheng, he’d definitely been completely crippled; although she couldn’t even see a trace of the emotion of anger and humiliation towards him, she was also extremely relieved.“haha, that’s great! you’re really the one that’s worried, right?” yun che said, not caring about what was on his mind anymore.“what’
     </p>
 
