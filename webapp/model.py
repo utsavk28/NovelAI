@@ -14,7 +14,9 @@ GPT2 = TFGPT2LMHeadModel.from_pretrained(
 def get_gpt2_novel(text, length):
     if len(text) == 0:
         text = random.choice(['A', 'The', 'Once', 'An'])
+    print(text)
     input_ids = tokenizer.encode(text, return_tensors='tf')
+    print(input_ids)
     sample_outputs = GPT2.generate(
         input_ids,
         do_sample=True,
@@ -34,3 +36,4 @@ def get_gpt2_simple_novel(text, length,model_no="1"):
     x = gpt2.generate(sess, return_as_list=True, run_name=f"run{model_no}",
                       prefix=text, length=length)
     return x[0]
+
