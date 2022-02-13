@@ -56,7 +56,7 @@ Light Novel Generation using LSTM & GPT-2. This Project was made in *KJSIEIT Cod
 
 
 ## 📸 Results
-[Demo link](https://www.youtube.com/watch?v=gzyclx5nLB0g)
+![Demo link](https://www.youtube.com/watch?v=gzyclx5nLB0g)
 ![HomePage](https://github.com/utsavk28/NovelAI/blob/main/images/NovelAI.png) 
 ![GeneratorPage](https://github.com/utsavk28/NovelAI/blob/main/images/NovelAI-Generator.png) 
 
