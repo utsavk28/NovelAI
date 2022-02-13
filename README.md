@@ -32,7 +32,7 @@ Light Novel Generation using LSTM & GPT-2. This Project was made for *KJSIEIT Co
 
 1. Clone the repository using the ```git clone```
 ```
- $ git clone https://github.com/utsavk28/Nerds.git
+ $ git clone https://github.com/utsavk28/NovelAI.git
 ```
 2. Create a virtual environment
 ```
