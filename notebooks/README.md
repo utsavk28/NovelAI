@@ -18,10 +18,10 @@ Best LSTM Model :
 
 Best Results from the above LSTM Models :
 ```
-1.  Julius Inclination And The Start Of Spleen And Dials The Earl Of Westmoreland Alencon The La Pucelle Charles And Prisoners To
-2.  Thou Art Perfect Given To Hide Thee From This Face And The Dauphin I Englishmen Fly To London Her And His
-3.  King Is The Matter Of The Forlorn French Earth Out Out Of Torch And The Queen And His Prisoners And Earl Of
-4.  Death Of The King Of My Blood I Am Paid Him I Am No All A Life Gloucester Protector And And After
-5.  The Princess Hath Daily Run To Wreck And And Two Two Done And The Spirit Of A Life Before A Tongue Of
-6.  Thanos My Lord Of York Say Is This The Guise Of The Mayor And The Hangman Of London And And Half
+1.  Julius Xiao Che Was A Very Genius Step In His Heart And Caused The People Of The Xiao Clan To Be
+2.  Thou Xiao Che Was A Very Genius Step In His Heart And Caused The People Of The Xiao Clan To Be
+3.  King Is You Really I Brotherinlaw I Have Just I Do You Want To Die About You To Say That You Are
+4.  Death Of Course Yun Che Had Already Ignored His Stance As Seriousness As His Entire Profound Veins He Had Always Been In
+5.  The Princess Was A Large Disaster Of The Xiao Clan And The Other Of The Seven Sects Had Always Seen The Sects
+6.  Thanos Xiao Che Was A Very Genius Step In His Heart And Caused The People Of The Xiao Clan To Be
 ```
