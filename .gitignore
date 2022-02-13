@@ -3,3 +3,5 @@
 /models/gpt2-fine-tune-atg-1000E
 /models/model_atg_1L1D_50E.h5
 /models/model_sp_1L1D_50E.h5
+/webapp/checkpoint
+/models/gpt2-fine-tune-aaf-1000E
