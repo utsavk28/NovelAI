@@ -25,7 +25,9 @@ Light Novel Generation using LSTM & GPT-2. This Project was made in *KJSIEIT Cod
 
 
 ### Notebooks
-<!-- * [ASL Alphabet detection using Deep Learning models](https://github.com/utsavk28/Nerds/blob/main/notebooks/asl-alphabet-detection-using-dl-models%20(1).ipynb) -->
+* [Text Generation using LSTM](https://github.com/utsavk28/NovelAI/blob/main/notebooks/text-generation-using-lstm.ipynb)
+* [Text Generation using HuggingFace GPT2](https://github.com/utsavk28/NovelAI/blob/main/notebooks/text-generation-with-huggingface-gpt2.ipynb)
+* [Fine Tuning GPT2 for Text Generation](https://github.com/utsavk28/NovelAI/blob/main/notebooks/text-generation-using-fine-tuned-gpt-2.ipynb)
 
 
 ## 🛠 Project Setup
@@ -52,10 +54,10 @@ Light Novel Generation using LSTM & GPT-2. This Project was made in *KJSIEIT Cod
 ## Group members
 - [Utsav Khatu](https://github.com/utsavk28)
 
-<!-- ## ASL characters and their sign representations
-![ASL characters](https://github.com/utsavk28/Nerds/blob/main/images/ASL%20characters.png?raw=true) -->
 
 ## 📸 Results
 [Demo link](https://www.youtube.com/watch?v=gzyclx5nLB0g)
+![HomePage](https://github.com/utsavk28/NovelAI/blob/main/images/NovelAI.png) 
+![GeneratorPage](https://github.com/utsavk28/NovelAI/blob/main/images/NovelAI-Generator.png) 
 
 ## 🌐 Conclusion
