@@ -34,7 +34,7 @@ Dataset used to train the model :
 1. [Light Novels](https://www.kaggle.com/utsavk02/4-light-novel-for-text-generation)
 
 Results from the above GPT2 Models :
-  1. Fine Tuned on Japanese Light Novel 
+  1. Fine Tuned on Japanese Light Novel \
     ```
     Story Beginning Words : Zombie Apocalypse
     Length : 300
