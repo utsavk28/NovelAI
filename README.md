@@ -3,7 +3,7 @@
 #### Note: This is a rough Readme , this Readme will be updated soon with all the details
 
 ## 📌 About
-Light Novel Generation using LSTM & GPT-2. This Project was made for *KJSIEIT Code Odyssey Hackathon*
+Light Novel Generation using LSTM & GPT-2. This Project was made in *KJSIEIT Code Odyssey Hackathon*
 
 
 ## 🎯 Key Features
