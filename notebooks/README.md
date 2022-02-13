@@ -10,8 +10,11 @@
 5. 1 Bidirectional LSTM & 2 Dense Layer
 
 Epochs Trained on : 50
-Dataset used to train the model : [Shakespeare's Play](https://www.kaggle.com/kingburrito666/shakespeare-plays)
-Dataset used to train the model : [Light Novels](https://www.kaggle.com/utsavk02/4-light-novel-for-text-generation)
+Dataset used to train the model : 
+1. [Shakespeare's Play](https://www.kaggle.com/kingburrito666/shakespeare-plays)
+2. [Light Novels](https://www.kaggle.com/utsavk02/4-light-novel-for-text-generation)
+
+
 Best LSTM Model :
 ```
   1 Bidirectional LSTM & 1 Dense Layer
