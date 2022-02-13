@@ -11,7 +11,15 @@ Light Novel Generation using LSTM & GPT-2. This Project was made in *KJSIEIT Cod
 
 ## 💻 Development Process
 ### Various Techniques/Models Used
-
+* LSTM 
+ * 1 LSTM & 1 Dense Layer
+ * 2 LSTM & 1 Dense Layer
+ * 1 LSTM & 2 Dense Layer
+ * 1 Bidirectional LSTM & 1 Dense Layer
+ * 1 Bidirectional LSTM & 2 Dense Layer 
+* GPT2
+ * Base
+ * Fine Tuning 
 
 ### Datasets used
 * [Light Novel Dataset](https://www.kaggle.com/utsavk02/4-light-novel-for-text-generation)
